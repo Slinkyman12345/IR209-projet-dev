@@ -29,6 +29,11 @@
   <p align="center">
     project_description
     <br />
+	Une fois qu’un attaquant à réussi à exploiter une faille (technique ou humaine) sur un système, la première chose qu'il va souhaiter mettre en place est généralement une invite de commande à distance. 
+	Celle-ci lui permettra de lancer des commandes sur la machine de la victime afin d’élever ses privilèges ou d’effectuer des déplacements latéraux. 
+	La plupart du temps, l’attaquant va tenter d’utiliser des logiciels pr´eexistants sur la machine attaquée pour mettre en place cette commande à distance (Python, netcat, PHP ou autres). 
+	Dans certains cas, il peut s’av´erer utile de charger sur la victime un shell personnalisé, pour différentes raisons (pour tromper l’antivirus par exemple). 
+	L’objectif de ce projet est de réaliser une invite de commande à distance en C qui permettra à l’attaquant de lancer des commandes simples à distance sur une machine pré-infectée.
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
   </p>
