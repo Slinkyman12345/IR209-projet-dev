@@ -66,7 +66,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ytimg.com/vi/Y3LAM8P3j7s/maxresdefault.jpg)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Ce projet est un examen scolaire. Il a pour but de développer une application C dans le contexte de la sécurité informatique, de comprendre les enjeux de la gestion de la mémoire en C. Strictement développé et utilisé dans un but scolaire !
 
@@ -76,8 +76,7 @@ Ce projet est un examen scolaire. Il a pour but de développer une application C
 
 ### Built With
 
-* * [![VSC][VSC.js]][VSC-url]
-
+* [![VSC][VSC.js]][VSC-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,7 +204,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.ytimg.com/vi/Y3LAM8P3j7s/maxresdefault.jpg
 [VSC.js]: https://img.shields.io/badge/-Visual%20Studio-0769AD?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white
 [VSC-url]: https://code.visualstudio.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
