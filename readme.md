@@ -66,9 +66,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://i.ytimg.com/vi/Y3LAM8P3j7s/maxresdefault.jpg)
 
-Ce projet est un examen scolaire. Il a pour but de développer une application C dans le contexte de la sécurité informatique, de comprendre les enjeux de la gestion de la mémoire en C. Développer dans un but scolaire !
+Ce projet est un examen scolaire. Il a pour but de développer une application C dans le contexte de la sécurité informatique, de comprendre les enjeux de la gestion de la mémoire en C. Strictement développé et utilisé dans un but scolaire !
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -76,14 +76,8 @@ Ce projet est un examen scolaire. Il a pour but de développer une application C
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Visual Studio Code][https://code.visualstudio.com/]][code.visualstudio-url]
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
