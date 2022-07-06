@@ -34,7 +34,8 @@
 	La plupart du temps, l’attaquant va tenter d’utiliser des logiciels pr´eexistants sur la machine attaquée pour mettre en place cette commande à distance (Python, netcat, PHP ou autres). 
 	Dans certains cas, il peut s’av´erer utile de charger sur la victime un shell personnalisé, pour différentes raisons (pour tromper l’antivirus par exemple). 
 	L’objectif de ce projet est de réaliser une invite de commande à distance en C qui permettra à l’attaquant de lancer des commandes simples à distance sur une machine pré-infectée.
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <br />
+	<a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
   </p>
 </div>
@@ -46,21 +47,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#A-propos-du-projet">A propos du projet</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Créé-avec">Créé avec</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Commencement">Commencement</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#prerequis">Prerequis</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contribution">contribution</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -69,7 +70,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## A propos du projet
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -79,7 +80,7 @@ Ce projet est un examen scolaire. Il a pour but de développer une application C
 
 
 
-### Built With
+### Créé avec
 
 * [![VSC][VSC.js]][VSC-url]
 
@@ -88,12 +89,12 @@ Ce projet est un examen scolaire. Il a pour but de développer une application C
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Commencement
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequis
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
