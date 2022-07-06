@@ -76,7 +76,7 @@ Ce projet est un examen scolaire. Il a pour but de développer une application C
 
 ### Built With
 
-* [![Visual Studio Code][https://code.visualstudio.com/]][code.visualstudio-url]
+* [![Visual.Studiocode][Visual Studio code]][https://code.visualstudio.com/]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
