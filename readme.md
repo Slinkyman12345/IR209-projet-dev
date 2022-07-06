@@ -76,7 +76,7 @@ Ce projet est un examen scolaire. Il a pour but de développer une application C
 
 ### Built With
 
-* [![Visual.Studiocode][Visual Studio code]][https://code.visualstudio.com/]
+* * [![VSC][VSC.js]][VSC-url]
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -206,12 +206,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+[VSC.js]: https://img.shields.io/badge/-Visual%20Studio-0769AD?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white
+[VSC-url]: https://code.visualstudio.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
